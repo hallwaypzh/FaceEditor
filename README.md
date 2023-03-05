@@ -1,7 +1,6 @@
 ## Face Editor With FOMM(like) Model
 
 This repo contains a facial editor with pretrained FOMM-like models.
-![](figs/record0.mp4)
 
 <video src='./figs/record0.mp4' width=180></video>
 
