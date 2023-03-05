@@ -2,7 +2,11 @@
 
 This repo contains a facial editor with pretrained FOMM-like models.
 
-<video src='./figs/record0.mp4' width=180></video>
+
+
+https://user-images.githubusercontent.com/29053705/222953682-14adb058-2475-4b1a-8539-c7fad005e339.mp4
+
+
 
 ### Usage
 1. Prepare the environment:
