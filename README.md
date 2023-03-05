@@ -1,4 +1,4 @@
-## Face Editor With FOMM(like) Model
+## Face Editor
 
 This repo contains a facial editor with pretrained FOMM-like models.
 
